@@ -11,7 +11,7 @@ EARN Labs is the development arm of the EARN ecosystem, focused on open-source p
 - **FlameStarters** - AI generated and human-curated NFT collection on BNB
 - **Flameling Queens** - Cross-chain multi-media NFT collection on Base chain
 - **EarnNFTBot** - multi-chain NFT notification telegram bot
-- **EARN Launchpad** — a cross-chain platform for community-driven token launches.
+- **EARN Launchpad** (in progress) — a cross-chain platform for community-driven token launches.
 ---
 
 🌐 [buyholdearn.com](https://buyholdearn.com)  
