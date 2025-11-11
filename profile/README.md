@@ -13,6 +13,8 @@ EARN Labs is the development arm of the EARN ecosystem, focused on open-source p
 - **[Flameling Queens](https://github.com/earn-labs/queens-dapp)** - cross-chain multi-media NFT collection on Base chain
 - **[EARN Relfections Bot](https://github.com/earn-labs/earn-reflections-bot)** - telegram bot to calculate EARN reflections for wallet
 - **[EarnNFTBot](https://github.com/earn-labs/earn-nft-bot)** - multi-chain NFT notification telegram bot
+- **[EarnBuyBot]("") - multi-chain token buy notification bot (private)
+- **[RewardsDistributionBot]("") - bot to automatically distribute liquidity rewards for EVM and Solana (private)
 - **[EarnVault](https://github.com/earn-labs/earn-vault)** - vault to hold EARN tokens and earn reflections
 ---
 
